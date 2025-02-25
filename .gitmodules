@@ -1,0 +1,9 @@
+[submodule "cvpacs"]
+	path = cvpacs
+	url = https://gitlab.com/fiz-hackathon/cvpacs
+[submodule "cvpacs-mock-model"]
+	path = cvpacs-mock-model
+	url = https://gitlab.com/fiz-hackathon/cvpacs-mock-model
+[submodule "recieverserver"]
+	path = recieverserver
+	url = https://gitlab.com/fiz-hackathon/recieverserver
